@@ -32,10 +32,10 @@ I'm a **Software Development Engineer** specializing in generative AI, computer 
 
 ## 📫 Contact
 
-**Email:** [srisaisanthosh91@gmail.com](mailto:srisaisanthosh91@gmail.com)  
+**Email:** [srisaisanthosh5@gmail.com](mailto:srisaisanthosh5@gmail.com)  
 **Phone:** +1 361-236-7715  
 **Location:** Seattle, WA  
-**LinkedIn:** [Sri Sai Santhosh Uppalapati](https://www.linkedin.com/in/sri-sai-santhosh-uppalapati/)
+**LinkedIn:** [Sri Sai Santhosh Uppalapati](https://www.linkedin.com/in/santhosh109/)
 
 ---
 
