@@ -7,8 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-"Software Engineer" with hands-on experience building scalable backend systems, cloud-native architectures, and multimodal ML pipelines. Skilled in Python, Java, FastAPI, Spring Boot, and AWS, with a strong background in designing automation platforms, real-time inference systems, and high-performance video processing workflows. Proven ability to deliver production-ready APIs, data pipelines, and distributed services adopted by engineering and leadership teams. Adept at applying software design patterns, optimizing system reliability, and developing dashboards and tooling to support data-driven decision making.
+Software Engineer  with hands-on experience building scalable backend systems, cloud-native architectures, and multimodal ML pipelines. Skilled in Python, Java, FastAPI, Spring Boot, and AWS, with a strong background in designing automation platforms, real-time inference systems, and high-performance video processing workflows. Proven ability to deliver production-ready APIs, data pipelines, and distributed services adopted by engineering and leadership teams. Adept at applying software design patterns, optimizing system reliability, and developing dashboards and tooling to support data-driven decision making.
 
 
 ## 🏆 Professional Summary
