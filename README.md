@@ -20,10 +20,14 @@ Software Engineer  with hands-on experience building scalable backend systems, c
 
 ## ⚙️ Technical Skills
 
-**Programming Languages:** Python, Java, JavaScript.
+**Programming Languages:** Python, Java, JavaScript
+
 **Backend & Frameworks:** Spring Boot, FastAPI, Flask, RESTful APIs, JPA, Hibernate.
+
 **Frontend:** React.js, Tailwind CSS, HTML5, CSS3.
+
 **Cloud & DevOps:** AWS (EC2, S3, Lambda, Step Functions, SageMaker), CI/CD, Docker, Git.
+
 **Machine Learning & Data Pipelines:** PyTorch, Scikit-Learn, TensorFlow, LLMs, multimodal pipelines, feature engineering.
 
 
