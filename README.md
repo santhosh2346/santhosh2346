@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sri Sai Santhosh Uppalapati!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/santhosh109/)
-[![Email](https://img.shields.io/badge/Email-srisaisanthosh5@gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:srisaisanthosh5@gmail.com)
+[![Email](https://img.shields.io/badge/Email-usrisaisanthosh@gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:usrisaisanthosh@gmail.com)
 ![Location](https://img.shields.io/badge/Seattle,%20WA-blue?style=flat-square)
 
 ---
@@ -35,7 +35,7 @@ Software Engineer  with hands-on experience building scalable backend systems, c
 
 ## 📫 Contact
 
-**Email:** [srisaisanthosh5@gmail.com](mailto:srisaisanthosh5@gmail.com)  
+**Email:** [usrisaisanthosh@gmail.com](mailto:usrisaisanthosh@gmail.com)  
 **Phone:** +1 361-236-7715  
 **Location:** Seattle, WA  
 **LinkedIn:** [Sri Sai Santhosh Uppalapati](https://www.linkedin.com/in/santhosh109/)
