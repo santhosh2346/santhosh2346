@@ -12,19 +12,20 @@ Software Engineer  with hands-on experience building scalable backend systems, c
 
 ## 🏆 Professional Summary
 
-- 4+ years owning the full SDLC for high-scale catalog and media platforms (Prime Video-scale)
-- Leading engineering of generative AI and computer vision services powering artwork and trailer processing for millions of titles daily
-- Deep expertise in scalable ML inference, video/image pipelines, and customer-obsessed delivery
+- 3+ years engineering scalable backend, automation, and multimodal ML pipelines across telecom, sports tech, property management, and large-scale media platforms.
+- Built generative AI–driven catalog enrichment and real-time inference services on AWS, processing 100K+ daily video assets with 99.99% availability and production adoption by leadership teams.
+- Deep expertise in distributed systems, high-performance APIs, event-driven video pipelines, and cloud-native architectures with a strong focus on reliability, efficiency, and customer-obsessed delivery.
 
 ---
 
 ## ⚙️ Technical Skills
 
-**Languages:** Python (expert), Java 17+, TypeScript, Go  
-**ML / CV / GenAI:** PyTorch, TensorFlow, Hugging Face, Stable Diffusion, CLIP, LLaVA, Rekognition, Bedrock, SageMaker  
-**Video & Image Pipelines:** FFmpeg, OpenCV, MediaInfo, CUDA (GPU), real-time and batch inference  
-**Cloud & Distributed:** AWS (S3, Lambda, Step Functions, ECS/Fargate, EKS), EventBridge, DynamoDB, SQS/SNS  
-**Practices:** Design patterns, code reviews, CI/CD, observability, on-call ops, operational excellence
+**Programming Languages:** Python, Java, JavaScript.
+**Backend & Frameworks:** Spring Boot, FastAPI, Flask, RESTful APIs, JPA, Hibernate.
+**Frontend:** React.js, Tailwind CSS, HTML5, CSS3.
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, Step Functions, SageMaker), CI/CD, Docker, Git.
+**Machine Learning & Data Pipelines:** PyTorch, Scikit-Learn, TensorFlow, LLMs, multimodal pipelines, feature engineering.
+
 
 ---
 
