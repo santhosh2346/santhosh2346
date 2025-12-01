@@ -8,9 +8,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development Engineer** specializing in generative AI, computer vision, and scalable video/image platforms. With a Master's in Computer Science and over 4 years of production engineering experience, I own projects end-to-end: from design to operation, driving impactful solutions for various types of users and content creators.
+"Software Engineer" with hands-on experience building scalable backend systems, cloud-native architectures, and multimodal ML pipelines. Skilled in Python, Java, FastAPI, Spring Boot, and AWS, with a strong background in designing automation platforms, real-time inference systems, and high-performance video processing workflows. Proven ability to deliver production-ready APIs, data pipelines, and distributed services adopted by engineering and leadership teams. Adept at applying software design patterns, optimizing system reliability, and developing dashboards and tooling to support data-driven decision making.
 
----
 
 ## 🏆 Professional Summary
 
